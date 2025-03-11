@@ -1,7 +1,7 @@
 .image-container{
     /*width: 300px;
     height: 200px;*/
-    background-image: url('image.png');
+    background-image: url('calculator.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -98,6 +98,7 @@ button:active{
     font-size: 3rem;
     font-weight: bold;
     cursor: pointer;
+    
 }
 
 .operator-bttn:hover{
